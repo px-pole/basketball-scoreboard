@@ -10,13 +10,14 @@ body {
 }
 
 .container {
-    width: 575px;
-    height: 385px;
+    width: 500px;
+    height: 335px;
     margin: auto;
     background-color: #1B244A;
     display: flex;
     justify-content: center;
     gap: 100px; 
+    opacity: 0.9;
 }
 
 h3 {
